@@ -1,0 +1,20 @@
+name: bi_test
+dependencies:
+    - python==3.12
+    - pip
+    - graphviz
+    - pip:
+      - numpy
+      - pandas
+      - scipy
+      - scikit-learn
+      - matplotlib
+      - seaborn
+      - jupyterlab
+      - tensorflow
+      - torch
+      - pyaml
+      - pydot
+      - graphviz
+      - tables
+      - ipywidgets
