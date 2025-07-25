@@ -4,7 +4,12 @@ dependencies:
     - pip
     - pip:
       - numpy
+      - pandas
       - scipy
+      - scikit-learn
       - matplotlib
+      - seaborn
       - jupyterlab
+      - torch
+      - tables
       - ipywidgets
